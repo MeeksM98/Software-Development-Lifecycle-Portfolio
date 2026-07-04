@@ -1,1 +1,104 @@
+# Scrum Overview
+
+## Introduction
+
+Scrum is an Agile framework that helps development teams organize, prioritize, and deliver software through short, iterative development cycles called sprints. Rather than attempting to complete an entire project at once, Scrum encourages teams to break work into manageable increments, allowing for continuous feedback, collaboration, and improvement throughout the Software Development Life Cycle (SDLC).
+
+Throughout this project, I gained a better understanding of how Scrum provides structure to Agile development by defining team roles, organizing project work, and promoting regular communication among stakeholders and developers.
+
+---
+
+## Scrum Roles
+
+Every Scrum team has three primary roles that work together to achieve the project's goals.
+
+### Product Owner
+
+The Product Owner represents the customer and stakeholders by defining project priorities and maintaining the Product Backlog. Their responsibility is to ensure the development team focuses on delivering the features that provide the greatest business value.
+
+### Scrum Master
+
+The Scrum Master serves as a facilitator for the team by removing obstacles, encouraging collaboration, and helping everyone follow Scrum practices. Rather than acting as a traditional manager, the Scrum Master supports the team and promotes continuous improvement.
+
+### Development Team
+
+The Development Team is responsible for designing, developing, testing, and delivering working software. Team members collaborate throughout each sprint to complete the selected work while maintaining software quality and meeting sprint goals.
+
+---
+
+## Scrum Artifacts
+
+Scrum uses several key artifacts to organize and manage development work.
+
+### Product Backlog
+
+The Product Backlog contains a prioritized list of features, enhancements, bug fixes, and other work needed to improve the product. The backlog evolves throughout the project as business needs and customer priorities change.
+
+### Sprint Backlog
+
+The Sprint Backlog includes the Product Backlog items selected for the current sprint, along with the tasks necessary to complete them. It provides the development team with a clear plan for achieving the Sprint Goal.
+
+### Product Increment
+
+The Product Increment is the completed work produced at the end of each sprint. Each increment should represent functional software that adds measurable value to the overall product.
+
+---
+
+## Scrum Events
+
+Scrum organizes work through several recurring events that keep the team aligned and focused.
+
+### Sprint Planning
+
+Sprint Planning marks the beginning of each sprint. During this meeting, the team selects work from the Product Backlog, estimates the effort required, and establishes a shared Sprint Goal.
+
+### Daily Scrum
+
+The Daily Scrum is a brief meeting where team members discuss their progress, identify any obstacles, and coordinate their work. These daily conversations help maintain transparency and encourage collaboration throughout the sprint.
+
+### Sprint Review
+
+At the conclusion of each sprint, the team demonstrates completed work to stakeholders during the Sprint Review. Feedback collected during this meeting helps determine future priorities and guides updates to the Product Backlog.
+
+### Sprint Retrospective
+
+Following the Sprint Review, the team reflects on the sprint to identify successes, challenges, and opportunities for improvement. This ongoing evaluation encourages continuous learning and helps the team become more effective over time.
+
+---
+
+## Scrum Workflow
+
+A typical Scrum project follows a continuous cycle:
+
+1. Gather and prioritize requirements.
+2. Build and maintain the Product Backlog.
+3. Plan the upcoming sprint.
+4. Complete development tasks during the sprint.
+5. Conduct Daily Scrum meetings.
+6. Demonstrate completed work during the Sprint Review.
+7. Reflect and improve during the Sprint Retrospective.
+8. Repeat the process for the next sprint.
+
+This iterative workflow allows teams to deliver software consistently while adapting to changing business requirements.
+
+---
+
+## Benefits of Scrum
+
+Organizations adopt Scrum because it encourages transparency, accountability, and continuous delivery of value. Some of the key advantages include:
+
+* Improved collaboration among team members.
+* Faster delivery of working software.
+* Greater flexibility when project requirements change.
+* Increased visibility into project progress.
+* Earlier identification of risks and issues.
+* Higher customer satisfaction through regular feedback.
+
+---
+
+## Reflection
+
+Before completing this project, I viewed software development primarily as the process of writing code. Learning about Scrum changed that perspective by showing me how successful software projects depend on communication, planning, teamwork, and continuous improvement as much as technical skills.
+
+Understanding Scrum has strengthened my appreciation for how structured project management supports successful software development. These concepts are valuable not only for software engineering, but also for careers in data analytics, IT analysis, business analysis, and project management, where collaboration, organization, and delivering business value are essential.
 
