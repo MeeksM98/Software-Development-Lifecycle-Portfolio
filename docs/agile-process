@@ -1,1 +1,95 @@
+# Agile Process
+
+## Introduction
+
+Agile is an iterative approach to software development that emphasizes collaboration, flexibility, and continuous improvement. Rather than attempting to define every requirement at the beginning of a project, Agile encourages development teams to deliver working software in small increments while adapting to changing business needs and stakeholder feedback.
+
+Throughout this project, I explored how Agile supports communication, planning, and continuous delivery while helping teams remain responsive throughout the Software Development Life Cycle (SDLC).
+
+---
+
+## Agile Principles
+
+The Agile methodology is built on a set of principles that encourage teams to focus on delivering value instead of simply completing tasks. During this project, I learned that successful Agile teams prioritize:
+
+* Customer collaboration over contract negotiation.
+* Responding to change rather than strictly following a fixed plan.
+* Delivering working software frequently.
+* Maintaining open communication between team members and stakeholders.
+* Continuously improving both the product and the development process.
+
+These principles create an environment where teams can quickly respond to changing priorities while continuing to deliver high-quality software.
+
+---
+
+## User Stories
+
+User stories are one of the most important components of Agile development because they help translate business needs into clear development requirements. Rather than focusing only on technical specifications, user stories describe software features from the perspective of the end user.
+
+A common user story follows this format:
+
+> **As a** user, **I want** to accomplish a task **so that** I can achieve a specific goal.
+
+Writing requirements this way helps development teams better understand customer expectations and prioritize the work that delivers the greatest value.
+
+---
+
+## Product Backlog
+
+The Product Backlog is a prioritized list of work that represents everything needed to improve the product. Items in the backlog are continuously reviewed, refined, and reordered as business priorities change.
+
+The Product Owner is responsible for maintaining the backlog and ensuring the development team is working on the highest-priority features.
+
+---
+
+## Sprint Planning
+
+Sprint Planning is where the development team determines which backlog items can realistically be completed during the upcoming sprint. Team members estimate the effort required for each task and agree on a shared Sprint Goal.
+
+I learned that effective sprint planning helps teams set realistic expectations, manage workloads, and deliver consistent progress throughout a project.
+
+---
+
+## Iterative Development
+
+One of Agile's greatest strengths is its iterative approach to development. Instead of waiting until the end of a project to evaluate results, software is developed in small increments that are reviewed and improved after each sprint.
+
+This process allows teams to identify problems earlier, incorporate stakeholder feedback more quickly, and continuously improve the final product.
+
+---
+
+## Continuous Feedback
+
+Feedback is a central part of Agile development. At the end of each sprint, stakeholders review completed work and provide input that may influence future development.
+
+Receiving frequent feedback helps ensure the project continues to align with business objectives while reducing the risk of building features that no longer meet customer needs.
+
+---
+
+## Continuous Improvement
+
+Agile encourages teams to regularly evaluate how they work. Sprint Retrospectives provide opportunities to discuss what went well, what challenges were encountered, and what improvements can be made during the next sprint.
+
+This culture of continuous improvement strengthens collaboration while helping teams become more efficient over time.
+
+---
+
+## Benefits of Agile
+
+Organizations continue to adopt Agile because it offers several important advantages, including:
+
+* Faster delivery of working software
+* Greater flexibility when requirements change
+* Improved collaboration between technical teams and stakeholders
+* Reduced project risk through incremental development
+* Increased customer satisfaction through continuous feedback
+* Higher software quality through frequent testing and review
+
+---
+
+## Reflection
+
+Working through Agile concepts helped me better understand that successful software development depends on more than technical ability. Effective communication, collaboration, planning, and adaptability are equally important in delivering solutions that meet business needs.
+
+This project also reinforced how Agile practices support many technology careers beyond software engineering, including data analytics, business analysis, IT analysis, and project management, where understanding business requirements and responding to change are essential skills.
 
